@@ -12,9 +12,9 @@ A full-featured **To-Do List** web application built with:
 
 ## 📸 Preview
 
-| 📝 Register 🔐 Login | | |
+| 📝 Register | | 🔐 Login |
 |------------------------|--|--|
-| ![](./Project_Preview/Register.png) | ![](./Project_Preview/Register_success.png) | | ![](./Project_Preview/Login.png) |
+| ![](./Project_Preview/Register.png) | ![](./Project_Preview/Register_success.png) | ![](./Project_Preview/Login.png) |
 
 | ➕ Add Task | |
 |-------------|--|
