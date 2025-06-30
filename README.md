@@ -12,7 +12,7 @@ A full-featured **To-Do List** web application built with:
 
 ## 📸 Preview
 
-| 📝 Register 🔐 Login |
+| 📝 Register 🔐 Login     |
 |------------------------|--|--|
 | ![](./Project_Preview/Register.png) | ![](./Project_Preview/Register_success.png) | | ![](./Project_Preview/Login.png) |
 
@@ -32,7 +32,7 @@ A full-featured **To-Do List** web application built with:
 |--------------------|--|--|
 | ![](./Project_Preview/Search.png) | ![](./Project_Preview/Filter_Complete.png) | ![](./Project_Preview/Filter_Not_Complete.png) |
 
-| 👤 User Profile |
+| 👤 User Profile     |
 |-----------------|--|--|
 | ![](./Project_Preview/User_1.png) | ![](./Project_Preview/User_2.png) | ![](./Project_Preview/User_3.png) |
 
