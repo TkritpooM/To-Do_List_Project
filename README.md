@@ -12,32 +12,32 @@ A full-featured **To-Do List** web application built with:
 
 ## 📸 Preview
 
-| 📝 Register | 🔐 Login |
+| 📝 Register | 🔐 Login | | |
 |------------------------|--|--|
 | ![](./Project_Preview/Register.png) | ![](./Project_Preview/Register_success.png) | | ![](./Project_Preview/Login.png) |
 
-| ➕ Add Task |
+| ➕ Add Task | | |
 |-------------|--|--|
 | ![](./Project_Preview/Add_1.png) | ![](./Project_Preview/Add_2.png) |
 
-| ✏️ Edit Task |
+| ✏️ Edit Task | | |
 |--------------|--|--|
 | ![](./Project_Preview/Edit_1.png) | ![](./Project_Preview/Edit_2.png) |
 
-| ❌ Delete Task |
+| ❌ Delete Task | | |
 |----------------|--|--|
 | ![](./Project_Preview/Delete_1.png) | ![](./Project_Preview/Delete_2.png) |
 
-| 🔍 Search & Filter |
+| 🔍 Search & Filter | | |
 |--------------------|--|--|
 | ![](./Project_Preview/Search.png) | ![](./Project_Preview/Filter_Complete.png) | ![](./Project_Preview/Filter_Not_Complete.png) |
 
-| 👤 User Profile |
+| 👤 User Profile | | |
 |-----------------|--|--|
 | ![](./Project_Preview/User_1.png) | ![](./Project_Preview/User_2.png) | ![](./Project_Preview/User_3.png) |
 
 | 👤 User Profile |
-|-----------------|
+|-----------------|--|--|
 | ![](./Project_Preview/Profile.png) |
 
 ---
